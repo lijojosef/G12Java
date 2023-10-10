@@ -32,8 +32,8 @@ public class Arrays2 {
         for(int i=marks.length-1; i>=0; i--){
             System.out.println(marks[i]);
         }
-//        System.out.println("====================");
-//        System.out.println(Arrays.toString(marks));
+        System.out.println("====================");
+        System.out.println(Arrays.toString(marks));
 //        
     }
     
