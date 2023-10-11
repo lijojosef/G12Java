@@ -40,10 +40,12 @@ public class OopsIntro {
         sai.marks = 90.3F;
 //
 //
-        lijo.changeName("Shoe lover");
-        lijo.greeting();
+//        lijo.changeName("Shoe lover");
+//        lijo.greeting();
 //
 ////
+        System.out.println(lijo.rno
+        		+ " " + lijo.name + lijo.marks);
         System.out.println(lijo.rno);
         System.out.println(lijo.name);
         System.out.println(lijo.marks);
@@ -112,6 +114,8 @@ class Student {
         this.rno = rno;
         this.name = name;
         this.marks = marks;
+        
+        
     }
 
 }
