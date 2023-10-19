@@ -6,7 +6,6 @@ public class Main {
 		
 		//
 		
-		 
 		
 //		obj1.name = "max";
 //		obj1.num = 30;
